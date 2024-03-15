@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>FISTAG Distribuição</title>
-    <link href="https://igorvel0so.github.io/MJPU/feed.xml" rel="self" />
-    <link href="https://igorvel0so.github.io/MJPU" />
+    <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
+    <link href="https://igorvel0so.github.io/FISTAG" />
     <updated>2024-03-15T20:45:04+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
-    <id>https://igorvel0so.github.io/MJPU</id>
+    <id>https://igorvel0so.github.io/FISTAG</id>
 
     <entry>
         <title>Sobre Nós</title>
         <author>
             <name>FISTAG</name>
         </author>
-        <link href="https://igorvel0so.github.io/MJPU/sobre-nos.html"/>
-        <id>https://igorvel0so.github.io/MJPU/sobre-nos.html</id>
+        <link href="https://igorvel0so.github.io/FISTAG/sobre-nos.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/sobre-nos.html</id>
 
         <updated>2024-03-15T20:45:04+00:00</updated>
             <summary></summary>

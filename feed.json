@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FISTAG Distribuição",
     "description": "",
-    "home_page_url": "https://igorvel0so.github.io/MJPU",
-    "feed_url": "https://igorvel0so.github.io/MJPU/feed.json",
+    "home_page_url": "https://igorvel0so.github.io/FISTAG",
+    "feed_url": "https://igorvel0so.github.io/FISTAG/feed.json",
     "user_comment": "",
-    "icon": "https://igorvel0so.github.io/MJPU/media/website/FISTAG-Logo4trans.png",
+    "icon": "https://igorvel0so.github.io/FISTAG/media/website/FISTAG-Logo4trans.png",
     "author": {
         "name": "FISTAG"
     },
     "items": [
         {
-            "id": "https://igorvel0so.github.io/MJPU/sobre-nos.html",
-            "url": "https://igorvel0so.github.io/MJPU/sobre-nos.html",
+            "id": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
+            "url": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
             "title": "Sobre Nós",
             "author": {
                 "name": "FISTAG"
