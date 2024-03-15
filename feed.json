@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FISTAG Distribuição",
+    "description": "",
+    "home_page_url": "https://igorvel0so.github.io/MJPU",
+    "feed_url": "https://igorvel0so.github.io/MJPU/feed.json",
+    "user_comment": "",
+    "icon": "https://igorvel0so.github.io/MJPU/media/website/FISTAG-Logo4trans.png",
+    "author": {
+        "name": "FISTAG"
+    },
+    "items": [
+        {
+            "id": "https://igorvel0so.github.io/MJPU/sobre-nos.html",
+            "url": "https://igorvel0so.github.io/MJPU/sobre-nos.html",
+            "title": "Sobre Nós",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-15T20:45:04+00:00",
+            "date_modified": "2024-03-15T20:45:04+00:00"
+        }
+    ]
+}
