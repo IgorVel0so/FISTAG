@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-18T20:04:29+00:00</updated>
+    <updated>2024-03-18T20:08:52+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -19,7 +19,17 @@
         <media:content url="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png" medium="image" />
 
         <updated>2024-03-15T20:45:04+00:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png" alt="" />
+                    A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png" class="type:primaryImage" alt="" /></p>
+                <p>A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
