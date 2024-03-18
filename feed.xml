@@ -3,12 +3,47 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-18T20:51:45+00:00</updated>
+    <updated>2024-03-18T23:46:05+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
     <id>https://igorvel0so.github.io/FISTAG</id>
 
+    <entry>
+        <title>Setores</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/setores.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/setores.html</id>
+
+        <updated>2024-03-18T23:44:23+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Missão, Valores e Sustentabilidade</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/missao-e-valores.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/missao-e-valores.html</id>
+
+        <updated>2024-03-18T23:25:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                    A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>
+<h5><span style="color: #236fa1;">Valor, Qualidade e Sustentabilidade</span></h5>
+<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>
+<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sobre Nós</title>
         <author>

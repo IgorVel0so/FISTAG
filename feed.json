@@ -11,6 +11,32 @@
     },
     "items": [
         {
+            "id": "https://igorvel0so.github.io/FISTAG/setores.html",
+            "url": "https://igorvel0so.github.io/FISTAG/setores.html",
+            "title": "Setores",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-18T23:44:23+00:00",
+            "date_modified": "2024-03-18T23:46:05+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
+            "url": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
+            "title": "Missão, Valores e Sustentabilidade",
+            "summary": "A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no&hellip;",
+            "content_html": "<p>A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>\n<h5><span style=\"color: #236fa1;\">Valor, Qualidade e Sustentabilidade</span></h5>\n<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>\n<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-18T23:25:22+00:00",
+            "date_modified": "2024-03-18T23:45:28+00:00"
+        },
+        {
             "id": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
             "url": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
             "title": "Sobre Nós",
