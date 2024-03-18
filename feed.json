@@ -16,7 +16,6 @@
             "title": "Sobre Nós",
             "summary": "A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.",
             "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans-2.png\" alt=\"\" width=\"1100\" height=\"951\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/1/responsive/FISTAG-Logo4trans-2-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/1/responsive/FISTAG-Logo4trans-2-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/1/responsive/FISTAG-Logo4trans-2-md.png 768w\"></figure>\n<p>A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.</p>",
-            "image": "https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png",
             "author": {
                 "name": "FISTAG"
             },
@@ -24,7 +23,7 @@
                    "Blog"
             ],
             "date_published": "2024-03-15T20:45:04+00:00",
-            "date_modified": "2024-03-18T20:28:11+00:00"
+            "date_modified": "2024-03-18T20:31:15+00:00"
         }
     ]
 }
