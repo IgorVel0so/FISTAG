@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-18T20:20:15+00:00</updated>
+    <updated>2024-03-18T20:28:11+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -16,19 +16,21 @@
         </author>
         <link href="https://igorvel0so.github.io/FISTAG/sobre-nos.html"/>
         <id>https://igorvel0so.github.io/FISTAG/sobre-nos.html</id>
-        <media:content url="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4.png" medium="image" />
+        <media:content url="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png" medium="image" />
+            <category term="Blog"/>
 
         <updated>2024-03-15T20:45:04+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4.png" alt="" />
+                        <img src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png" alt="" />
                     A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4.png" class="type:primaryImage" alt="" /></p>
-                <p>A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.</p>
+                    <p><img src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4trans-2.png" alt="" width="1100" height="951" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/1/responsive/FISTAG-Logo4trans-2-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/1/responsive/FISTAG-Logo4trans-2-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/1/responsive/FISTAG-Logo4trans-2-md.png 768w"></figure>
+<p>A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.</p>
             ]]>
         </content>
     </entry>
