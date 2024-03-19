@@ -3,12 +3,48 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-19T18:38:23+00:00</updated>
+    <updated>2024-03-19T23:20:49+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
     <id>https://igorvel0so.github.io/FISTAG</id>
 
+    <entry>
+        <title>Armazenamento</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/armazenamento.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/armazenamento.html</id>
+            <category term="Serviços"/>
+
+        <updated>2024-03-19T19:52:20+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Transporte</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/transporte.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/transporte.html</id>
+            <category term="Serviços"/>
+
+        <updated>2024-03-19T19:49:41+00:00</updated>
+            <summary>
+                <![CDATA[
+                    A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png" alt="" width="512" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa e no local certo.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Setores</title>
         <author>
@@ -16,6 +52,7 @@
         </author>
         <link href="https://igorvel0so.github.io/FISTAG/setores.html"/>
         <id>https://igorvel0so.github.io/FISTAG/setores.html</id>
+            <category term="Sobre Nós"/>
 
         <updated>2024-03-18T23:44:23+00:00</updated>
             <summary>
@@ -42,6 +79,7 @@
         </author>
         <link href="https://igorvel0so.github.io/FISTAG/missao-e-valores.html"/>
         <id>https://igorvel0so.github.io/FISTAG/missao-e-valores.html</id>
+            <category term="Sobre Nós"/>
 
         <updated>2024-03-18T23:25:22+00:00</updated>
             <summary>
@@ -66,7 +104,7 @@
         <link href="https://igorvel0so.github.io/FISTAG/sobre-nos.html"/>
         <id>https://igorvel0so.github.io/FISTAG/sobre-nos.html</id>
         <media:content url="https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4.png" medium="image" />
-            <category term="Blog"/>
+            <category term="Sobre Nós"/>
 
         <updated>2024-03-15T20:45:04+00:00</updated>
             <summary>

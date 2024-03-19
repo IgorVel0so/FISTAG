@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://igorvel0so.github.io/FISTAG/armazenamento.html",
+            "url": "https://igorvel0so.github.io/FISTAG/armazenamento.html",
+            "title": "Armazenamento",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-19T19:52:20+00:00",
+            "date_modified": "2024-03-19T19:52:20+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/transporte.html",
+            "url": "https://igorvel0so.github.io/FISTAG/transporte.html",
+            "title": "Transporte",
+            "summary": "A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png\" alt=\"\" width=\"512\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w\"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa e no local certo.</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-19T19:49:41+00:00",
+            "date_modified": "2024-03-19T23:20:49+00:00"
+        },
+        {
             "id": "https://igorvel0so.github.io/FISTAG/setores.html",
             "url": "https://igorvel0so.github.io/FISTAG/setores.html",
             "title": "Setores",
@@ -20,9 +48,10 @@
                 "name": "FISTAG"
             },
             "tags": [
+                   "Sobre Nós"
             ],
             "date_published": "2024-03-18T23:44:23+00:00",
-            "date_modified": "2024-03-19T18:38:23+00:00"
+            "date_modified": "2024-03-19T19:50:24+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
@@ -34,9 +63,10 @@
                 "name": "FISTAG"
             },
             "tags": [
+                   "Sobre Nós"
             ],
             "date_published": "2024-03-18T23:25:22+00:00",
-            "date_modified": "2024-03-19T15:04:54+00:00"
+            "date_modified": "2024-03-19T19:50:28+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
@@ -49,10 +79,10 @@
                 "name": "FISTAG"
             },
             "tags": [
-                   "Blog"
+                   "Sobre Nós"
             ],
             "date_published": "2024-03-15T20:45:04+00:00",
-            "date_modified": "2024-03-19T15:04:51+00:00"
+            "date_modified": "2024-03-19T19:50:15+00:00"
         }
     ]
 }
