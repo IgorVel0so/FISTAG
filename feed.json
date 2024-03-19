@@ -14,27 +14,29 @@
             "id": "https://igorvel0so.github.io/FISTAG/setores.html",
             "url": "https://igorvel0so.github.io/FISTAG/setores.html",
             "title": "Setores",
+            "summary": "E - Retail Um sector em exponencial crescimento, que ascrescenta novos desafios e exigências pelos consumidores, trabalhamos com parceiros que&hellip;",
+            "content_html": "<h4><figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/3/E-Retail-2.jpeg\" alt=\"\" width=\"5000\" height=\"3452\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/E-Retail-2-xs.jpeg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/E-Retail-2-sm.jpeg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/E-Retail-2-md.jpeg 768w\"></figure><span style=\"color: #236fa1;\">E - Retail</span></h4>\n<p>Um sector em exponencial crescimento, que ascrescenta novos desafios e exigências pelos consumidores, trabalhamos com parceiros que praticam o retalho electrónico, impulsionando a distribuição no e-commerce.</p>\n<p> </p>\n<h4 class=\"align-right\"><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/3/GirlsStore.jpg\" alt=\"\" width=\"1000\" height=\"667\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/GirlsStore-xs.jpg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/GirlsStore-sm.jpg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/GirlsStore-md.jpg 768w\"></figure><span style=\"color: #236fa1;\">Retalho</span></h4>\n<p class=\"align-right\">Sempre um setor exigente, e prezando o compromisso e segurança, fazemos chegar aos nossos retalhistas uma grande diversidade de produtos eletrónicos. </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "FISTAG"
             },
             "tags": [
             ],
             "date_published": "2024-03-18T23:44:23+00:00",
-            "date_modified": "2024-03-18T23:46:05+00:00"
+            "date_modified": "2024-03-19T18:38:23+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
             "url": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
             "title": "Missão, Valores e Sustentabilidade",
             "summary": "A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no&hellip;",
-            "content_html": "<p>A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>\n<h5><span style=\"color: #236fa1;\">Valor, Qualidade e Sustentabilidade</span></h5>\n<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>\n<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>",
+            "content_html": "<p>A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>\n<h3><span style=\"color: #236fa1;\">Valor, Qualidade e Sustentabilidade</span></h3>\n<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>\n<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>",
             "author": {
                 "name": "FISTAG"
             },
             "tags": [
             ],
             "date_published": "2024-03-18T23:25:22+00:00",
-            "date_modified": "2024-03-18T23:45:28+00:00"
+            "date_modified": "2024-03-19T15:04:54+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
@@ -50,7 +52,7 @@
                    "Blog"
             ],
             "date_published": "2024-03-15T20:45:04+00:00",
-            "date_modified": "2024-03-18T20:51:45+00:00"
+            "date_modified": "2024-03-19T15:04:51+00:00"
         }
     ]
 }
