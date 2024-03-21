@@ -3,12 +3,46 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-19T23:20:49+00:00</updated>
+    <updated>2024-03-20T17:37:18+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
     <id>https://igorvel0so.github.io/FISTAG</id>
 
+    <entry>
+        <title>Logística</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/logistica.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/logistica.html</id>
+            <category term="Serviços"/>
+
+        <updated>2024-03-20T17:37:10+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Carreira</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/carreira.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/carreira.html</id>
+
+        <updated>2024-03-20T16:14:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                    A nossa presença local confere um caráter regional e nacional. Muitas oportunidades para te juntares a nós estão à tua&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A nossa presença local confere um caráter regional e nacional. Muitas oportunidades para te juntares a nós estão à tua espera!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Armazenamento</title>
         <author>
@@ -39,7 +73,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png" alt="" width="512" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa e no local certo.</p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png" alt="" width="512" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa, no local certo. Estamos empenhados em entregar a encomenda perfeita.</p>
+<p>Prevendo as medidas da União Europeia que visam reduzir os veículos com motores de combustão, adquirimos com os nossos parceiros duas carrinhas eletricas personalizadas. Temos como meta a redução de emissões, e trabalhar consigo nos objetivos de sustentabilidade.</p>
 <p> </p>
 <p> </p>
             ]]>
@@ -84,12 +119,12 @@
         <updated>2024-03-18T23:25:22+00:00</updated>
             <summary>
                 <![CDATA[
-                    A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no&hellip;
+                    A FISTAG Distribuição presta serviços de distribuição (B2B) com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>
+                <p>A FISTAG Distribuição presta serviços de distribuição (B2B) com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>
 <h3><span style="color: #236fa1;">Valor, Qualidade e Sustentabilidade</span></h3>
 <p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>
 <p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>

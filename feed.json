@@ -11,6 +11,33 @@
     },
     "items": [
         {
+            "id": "https://igorvel0so.github.io/FISTAG/logistica.html",
+            "url": "https://igorvel0so.github.io/FISTAG/logistica.html",
+            "title": "Logística",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-20T17:37:10+00:00",
+            "date_modified": "2024-03-20T17:37:18+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/carreira.html",
+            "url": "https://igorvel0so.github.io/FISTAG/carreira.html",
+            "title": "Carreira",
+            "summary": "A nossa presença local confere um caráter regional e nacional. Muitas oportunidades para te juntares a nós estão à tua&hellip;",
+            "content_html": "<p>A nossa presença local confere um caráter regional e nacional. Muitas oportunidades para te juntares a nós estão à tua espera!</p>\n<p> </p>",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-20T16:14:42+00:00",
+            "date_modified": "2024-03-20T16:23:34+00:00"
+        },
+        {
             "id": "https://igorvel0so.github.io/FISTAG/armazenamento.html",
             "url": "https://igorvel0so.github.io/FISTAG/armazenamento.html",
             "title": "Armazenamento",
@@ -28,7 +55,7 @@
             "url": "https://igorvel0so.github.io/FISTAG/transporte.html",
             "title": "Transporte",
             "summary": "A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos&hellip;",
-            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png\" alt=\"\" width=\"512\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w\"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa e no local certo.</p>\n<p> </p>\n<p> </p>",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png\" alt=\"\" width=\"512\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w\"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa, no local certo. Estamos empenhados em entregar a encomenda perfeita.</p>\n<p>Prevendo as medidas da União Europeia que visam reduzir os veículos com motores de combustão, adquirimos com os nossos parceiros duas carrinhas eletricas personalizadas. Temos como meta a redução de emissões, e trabalhar consigo nos objetivos de sustentabilidade.</p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -36,7 +63,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-19T19:49:41+00:00",
-            "date_modified": "2024-03-19T23:20:49+00:00"
+            "date_modified": "2024-03-20T16:24:34+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/setores.html",
@@ -51,14 +78,14 @@
                    "Sobre Nós"
             ],
             "date_published": "2024-03-18T23:44:23+00:00",
-            "date_modified": "2024-03-19T19:50:24+00:00"
+            "date_modified": "2024-03-20T16:24:54+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
             "url": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
             "title": "Missão, Valores e Sustentabilidade",
-            "summary": "A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no&hellip;",
-            "content_html": "<p>A FISTAG Distribuição presta serviços de distribuição com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>\n<h3><span style=\"color: #236fa1;\">Valor, Qualidade e Sustentabilidade</span></h3>\n<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>\n<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>",
+            "summary": "A FISTAG Distribuição presta serviços de distribuição (B2B) com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros&hellip;",
+            "content_html": "<p>A FISTAG Distribuição presta serviços de distribuição (B2B) com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>\n<h3><span style=\"color: #236fa1;\">Valor, Qualidade e Sustentabilidade</span></h3>\n<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>\n<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -66,7 +93,7 @@
                    "Sobre Nós"
             ],
             "date_published": "2024-03-18T23:25:22+00:00",
-            "date_modified": "2024-03-19T19:50:28+00:00"
+            "date_modified": "2024-03-20T16:25:27+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
