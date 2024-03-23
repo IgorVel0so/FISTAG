@@ -11,6 +11,84 @@
     },
     "items": [
         {
+            "id": "https://igorvel0so.github.io/FISTAG/layout.html",
+            "url": "https://igorvel0so.github.io/FISTAG/layout.html",
+            "title": "Layout",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Sobre Nós"
+            ],
+            "date_published": "2024-03-23T16:20:03+00:00",
+            "date_modified": "2024-03-23T16:20:03+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/automacao.html",
+            "url": "https://igorvel0so.github.io/FISTAG/automacao.html",
+            "title": "Automação",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-23T16:17:53+00:00",
+            "date_modified": "2024-03-23T16:17:53+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/equipamento-e-maquinas.html",
+            "url": "https://igorvel0so.github.io/FISTAG/equipamento-e-maquinas.html",
+            "title": "Equipamento e Máquinas",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-23T16:17:41+00:00",
+            "date_modified": "2024-03-23T16:17:41+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/seguranca.html",
+            "url": "https://igorvel0so.github.io/FISTAG/seguranca.html",
+            "title": "Segurança",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-23T16:15:05+00:00",
+            "date_modified": "2024-03-23T16:15:05+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/condicionamento-de-carga.html",
+            "url": "https://igorvel0so.github.io/FISTAG/condicionamento-de-carga.html",
+            "title": "Condicionamento de Carga",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-23T16:13:41+00:00",
+            "date_modified": "2024-03-23T16:13:41+00:00"
+        },
+        {
+            "id": "https://igorvel0so.github.io/FISTAG/warehouse-management-system-wms.html",
+            "url": "https://igorvel0so.github.io/FISTAG/warehouse-management-system-wms.html",
+            "title": "Warehouse Management System (WMS)",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Serviços"
+            ],
+            "date_published": "2024-03-23T16:11:32+00:00",
+            "date_modified": "2024-03-23T16:13:47+00:00"
+        },
+        {
             "id": "https://igorvel0so.github.io/FISTAG/logistica.html",
             "url": "https://igorvel0so.github.io/FISTAG/logistica.html",
             "title": "Logística",
@@ -54,8 +132,8 @@
             "id": "https://igorvel0so.github.io/FISTAG/transporte.html",
             "url": "https://igorvel0so.github.io/FISTAG/transporte.html",
             "title": "Transporte",
-            "summary": "A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos&hellip;",
-            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png\" alt=\"\" width=\"512\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w\"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de tráfego, garantindo a entrega dos envios à hora certa, no local certo. Estamos empenhados em entregar a encomenda perfeita.</p>\n<p>Prevendo as medidas da União Europeia que visam reduzir os veículos com motores de combustão, adquirimos com os nossos parceiros duas carrinhas eletricas personalizadas. Temos como meta a redução de emissões, e trabalhar consigo nos objetivos de sustentabilidade.</p>\n<p> </p>\n<p> </p>",
+            "summary": "A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de frota, garantindo a entrega dos&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/4/Van_FISTAG.png\" alt=\"\" width=\"512\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/4/responsive/Van_FISTAG-md.png 768w\"></figure>A FISTAG usa a sua própria frota e está permanentemente suportada pelos nossos operadores de frota, garantindo a entrega dos envios à hora certa, no local certo. Estamos empenhados em entregar a encomenda perfeita.</p>\n<p>Prevendo as medidas da União Europeia que visam reduzir os veículos com motores de combustão, adquirimos com os nossos parceiros duas carrinhas eletricas personalizadas. Temos como meta a redução de emissões, e trabalhar consigo nos objetivos de sustentabilidade.</p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -63,53 +141,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-19T19:49:41+00:00",
-            "date_modified": "2024-03-20T16:24:34+00:00"
-        },
-        {
-            "id": "https://igorvel0so.github.io/FISTAG/setores.html",
-            "url": "https://igorvel0so.github.io/FISTAG/setores.html",
-            "title": "Setores",
-            "summary": "E - Retail Um sector em exponencial crescimento, que ascrescenta novos desafios e exigências pelos consumidores, trabalhamos com parceiros que&hellip;",
-            "content_html": "<h4><figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/3/E-Retail-2.jpeg\" alt=\"\" width=\"5000\" height=\"3452\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/E-Retail-2-xs.jpeg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/E-Retail-2-sm.jpeg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/E-Retail-2-md.jpeg 768w\"></figure><span style=\"color: #236fa1;\">E - Retail</span></h4>\n<p>Um sector em exponencial crescimento, que ascrescenta novos desafios e exigências pelos consumidores, trabalhamos com parceiros que praticam o retalho electrónico, impulsionando a distribuição no e-commerce.</p>\n<p> </p>\n<h4 class=\"align-right\"><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/3/GirlsStore.jpg\" alt=\"\" width=\"1000\" height=\"667\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/GirlsStore-xs.jpg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/GirlsStore-sm.jpg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/3/responsive/GirlsStore-md.jpg 768w\"></figure><span style=\"color: #236fa1;\">Retalho</span></h4>\n<p class=\"align-right\">Sempre um setor exigente, e prezando o compromisso e segurança, fazemos chegar aos nossos retalhistas uma grande diversidade de produtos eletrónicos. </p>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "FISTAG"
-            },
-            "tags": [
-                   "Sobre Nós"
-            ],
-            "date_published": "2024-03-18T23:44:23+00:00",
-            "date_modified": "2024-03-20T16:24:54+00:00"
-        },
-        {
-            "id": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
-            "url": "https://igorvel0so.github.io/FISTAG/missao-e-valores.html",
-            "title": "Missão, Valores e Sustentabilidade",
-            "summary": "A FISTAG Distribuição presta serviços de distribuição (B2B) com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros&hellip;",
-            "content_html": "<p>A FISTAG Distribuição presta serviços de distribuição (B2B) com especialidade em produtos e componentes electrónicos. Pretendemos trabalhar com vários parceiros no retalho e <em>e-tail</em>. FISTAG serve o mercado com produtos de dezenas categorias, incluindo tecnologia <em>smart home, </em>tecnologia de exterior, acessórios, e muito mais. </p>\n<h3><span style=\"color: #236fa1;\">Valor, Qualidade e Sustentabilidade</span></h3>\n<p>Agir sempre com clareza. Buscar intensamente a valorização e crescimento de todos, partilhando sabedorias e multiplicando ações. Assim nos permite garantir a qualidade dos nossos serviços, dignificando todos que trabalham connosco. </p>\n<p>Sustentabilidade está presente em todas as nossas atividades, quer na coloboração com os nossos parceiros, quer na redução do impacto ambiental. </p>",
-            "author": {
-                "name": "FISTAG"
-            },
-            "tags": [
-                   "Sobre Nós"
-            ],
-            "date_published": "2024-03-18T23:25:22+00:00",
-            "date_modified": "2024-03-20T16:25:27+00:00"
-        },
-        {
-            "id": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
-            "url": "https://igorvel0so.github.io/FISTAG/sobre-nos.html",
-            "title": "Sobre Nós",
-            "summary": "A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.",
-            "content_html": "<p> </p>\n<p>A FISTAG Distribuição é uma empresa dedicada a levar produtos eletrónicos até si.</p>",
-            "image": "https://igorvel0so.github.io/FISTAG/media/posts/1/FISTAG-Logo4.png",
-            "author": {
-                "name": "FISTAG"
-            },
-            "tags": [
-                   "Sobre Nós"
-            ],
-            "date_published": "2024-03-15T20:45:04+00:00",
-            "date_modified": "2024-03-19T19:50:15+00:00"
+            "date_modified": "2024-03-21T18:14:03+00:00"
         }
     ]
 }
