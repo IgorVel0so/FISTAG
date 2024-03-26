@@ -28,6 +28,7 @@
             "url": "https://igorvel0so.github.io/FISTAG/layout.html",
             "title": "Layout",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01.png\" alt=\"\" width=\"3508\" height=\"2480\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-md.png 768w\"></figure>",
+            "image": "https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01-2.png",
             "author": {
                 "name": "FISTAG"
             },
@@ -35,7 +36,7 @@
                    "Sobre Nós"
             ],
             "date_published": "2024-03-23T16:20:03+00:00",
-            "date_modified": "2024-03-26T22:43:13+00:00"
+            "date_modified": "2024-03-26T22:45:02+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/automacao.html",
