@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-26T22:45:02+00:00</updated>
+    <updated>2024-03-26T22:52:20+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -37,7 +37,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01.png" alt="" width="3508" height="2480" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-md.png 768w"></figure>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01.png" alt="" width="3508" height="2480" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-md.png 768w"></figure>
             ]]>
         </content>
     </entry>
