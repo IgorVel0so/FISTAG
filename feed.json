@@ -11,11 +11,24 @@
     },
     "items": [
         {
+            "id": "https://igorvel0so.github.io/FISTAG/desafios.html",
+            "url": "https://igorvel0so.github.io/FISTAG/desafios.html",
+            "title": "Desafios",
+            "author": {
+                "name": "FISTAG"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2024-03-28T01:15:25+00:00",
+            "date_modified": "2024-03-28T01:15:25+00:00"
+        },
+        {
             "id": "https://igorvel0so.github.io/FISTAG/internet-das-coisas.html",
             "url": "https://igorvel0so.github.io/FISTAG/internet-das-coisas.html",
-            "title": "Internet das Coisas",
-            "summary": "O sistema IoT permite-nos monitorizar com mais detalhe todas as operações do armazém à distância, fazendo mais aproveitamento do espaço&hellip;",
-            "content_html": "<p>O sistema IoT permite-nos monitorizar com mais detalhe todas as operações do armazém à distância, fazendo mais aproveitamento do espaço destinado à alocação e movimentação dos produtos.</p>\n<p>Ao longo dos anos, os sensores tiveram os seus preços reduzidos devido à adoção ubíqua pelas grandes e médias empresas. As baterias aumentaram o tempo de duração, e é possível distribuir mais sensores por menor custo.</p>\n<p>Apesar de um investimento inicial substancial, a médio e longo prazo acreditamos que irá beneficiar a produtividade ao mesmo tempo que aumentam os níveis de segurança e bem-estar.</p>\n<p>Introduzimos sensores nas nossas entradas, máquinas, robôs e racks.</p>",
+            "title": "Armazém Inteligente",
+            "summary": "O nosso conceito de Armazém Inteligente incorpora-se numa tentativa de implementar as novas tecnologias para diminuir o erro humano, optimizar&hellip;",
+            "content_html": "<p>O nosso conceito de Armazém Inteligente incorpora-se numa tentativa de implementar as novas tecnologias para diminuir o erro humano, optimizar a leitura de dados e aumentar a velocidade das operações. Um sistema bem conectado permite-nos monitorizar com mais detalhe todas as operações do armazém à distância, fazendo mais aproveitamento do espaço destinado à alocação e movimentação dos produtos.</p>\n<p>Ao longo dos anos, os sensores tiveram os seus preços reduzidos devido à adoção ubíqua pelas grandes e médias empresas de vários sectores. As baterias aumentaram o tempo de duração, e é possível distribuir mais sensores pelo armazém por menor custo.</p>\n<p>Apesar de um investimento inicial substancial, a médio e longo prazo acreditamos que irá beneficiar a produtividade ao mesmo tempo que aumentam os níveis de segurança e bem-estar.</p>\n<p>Introduzimos sensores nas nossas entradas, máquinas, robôs e racks.</p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -23,7 +36,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-25T16:00:49+00:00",
-            "date_modified": "2024-03-27T18:43:46+00:00"
+            "date_modified": "2024-03-27T22:47:04+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/layout.html",
@@ -38,7 +51,7 @@
                    "Sobre Nós"
             ],
             "date_published": "2024-03-23T16:20:03+00:00",
-            "date_modified": "2024-03-26T23:36:27+00:00"
+            "date_modified": "2024-03-27T19:47:59+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/automacao.html",
@@ -100,8 +113,8 @@
             "id": "https://igorvel0so.github.io/FISTAG/warehouse-management-system-wms.html",
             "url": "https://igorvel0so.github.io/FISTAG/warehouse-management-system-wms.html",
             "title": "Warehouse Management System (WMS)",
-            "summary": "A adoção de um WMS justifica-se pela dimensão do inventário e das encomendas, e a complexidade dos dados logísticos (características&hellip;",
-            "content_html": "<p>A adoção de um WMS justifica-se pela dimensão do inventário e das encomendas, e a complexidade dos dados logísticos (características físicas e específicas de um produto). Além dos módulos que consideramos base num sistema de gestão (inventário, pedidos, etc), incluímos mais um módulo que nos permite monitorizar<br>temperaturas e estar conectados aos agentes robóticos.</p>\n<p>Na hora do picking usamos o método por Onda. A razão principal está na grande dimensão das encomendas, e da já existente necessidade de usar WMS (Sistema de Gestãode Armazém).</p>\n<p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências dos produtos necessários para responder aos pedidos de<br>encomenda. O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de<br>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de<br>espera.</p>",
+            "summary": "A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade&hellip;",
+            "content_html": "<p>A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade dos respetivos dados logísticos (características físicas e específicas de um produto). Além dos módulos que consideramos base num sistema de gestão (inventário, pedidos, etc), incluímos mais um módulo que nos permite monitorizar<br>temperaturas e estar conectados aos agentes robóticos.</p>\n<p>Na hora do picking usamos o método por Onda. A razão principal está na grande dimensão das encomendas, e da já existente necessidade de usar WMS (Sistema de Gestãode Armazém).</p>\n<p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências dos produtos necessários para responder aos pedidos de<br>encomenda. O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de<br>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de<br>espera.</p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -109,7 +122,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-23T16:11:32+00:00",
-            "date_modified": "2024-03-27T18:27:06+00:00"
+            "date_modified": "2024-03-27T19:47:53+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/logistica.html",
@@ -137,21 +150,6 @@
             ],
             "date_published": "2024-03-20T16:14:42+00:00",
             "date_modified": "2024-03-20T16:23:34+00:00"
-        },
-        {
-            "id": "https://igorvel0so.github.io/FISTAG/armazenamento.html",
-            "url": "https://igorvel0so.github.io/FISTAG/armazenamento.html",
-            "title": "Armazenamento",
-            "summary": "Climatização A forma como o armazém assegura a qualidade dos produtos é de extrema importância. As altas temperaturas, humidade e&hellip;",
-            "content_html": "<h3><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/5/3d-rendering-ventilation-system-2.jpg\" alt=\"\" width=\"1000\" height=\"714\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/3d-rendering-ventilation-system-2-xs.jpg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/3d-rendering-ventilation-system-2-sm.jpg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/3d-rendering-ventilation-system-2-md.jpg 768w\"></figure><span style=\"color: #236fa1;\">Climatização</span></h3>\n<p>A forma como o armazém assegura a qualidade dos produtos é de extrema importância. As altas temperaturas, humidade e electricidade estática, são as principais causas de risco e dano aos componentes e aparelhos electrónicos. Não só temos de garantir que o produto chegue aos nossos clientes sem exposição a riscos, como também temos de manter todo o nosso equipamento operacional e reduzir ao máximo as necessidades de manutenção. </p>\n<p>Por isso a importância da implementação de uma sistema de Aquecimento, Ventilação e Ar Condicionado (AVAC) - HVAC em Inglês - para que o ar mantenha os requisitos de armazenamento a que os nossos produtos obrigam.</p>\n<p>O nosso sitema de AVAC está ligado à nossa nova integração de IoT - Internet of Things (Internet das Coisas) - que permite monitorizar a temperatura e receber análises precisas. É ainda possível receber notificações em tempo real sobre quaisquer problemas que possam surgir, permitindo efetuar manutenção de prevenção, reduzindo custos, tempo e energia. Mais eficiência, menos peso nos custos de energia e reparações caras e constantes.</p>\n<p>Queremos que os nossos colaboradores executem as suas tarefas num ambiente limpo e que promova a segurança do pó, plásticos e cheiros que se tornam inevitáveis com o tempo de armazenamento. O bem-estar dos nossos colaboradores é muito importante!  </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/5/STATIC-stock.png\" alt=\"\" width=\"800\" height=\"400\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/STATIC-stock-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/STATIC-stock-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/STATIC-stock-md.png 768w\"></figure>\n<h3><span style=\"color: #236fa1;\">Armazenamento Estático</span></h3>\n<p>O ano de 2020 foi árduo no sector logístico. Uns sentiram mais que outros, mas retiraram-se lições importantes. Uma dessas lições incentivou-nos a adotar e expandir o armazenamento estático para combater a imprevisibilidade. </p>\n<p>Não estamos à espera da próxima pandemia, mas queremos estar preparados para o que o mundo nos atira de surpresa. Há outros eventos a afetar as cadeias de abastecimento, como as guerras e alterações climáticas. Asseguramos os nossos clientes a disponibilidade de produtos durante picos de procura, e abastecemos os nossos parceiros de <em>e-tail.</em></p>\n<p>Os produtos estão alocados por famílias. Segue-se um exemplo: </p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/FISTAG/media/posts/5/TABELA-FAMILIA.png\" alt=\"\" width=\"341\" height=\"499\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/TABELA-FAMILIA-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/TABELA-FAMILIA-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/5/responsive/TABELA-FAMILIA-md.png 768w\"></figure>A classificação de produtos por grupo ou família, obtemos uma série de vantagens para nosso dia-a-dia.</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li><span style=\"color: #236fa1;\"><strong>Facilidade em localizar produtos no sistema.</strong></span><br>Ao procura um produto no sistema para editar alguma<br>informação ou realizar alguma consulta, essa classificação<br>realiza um número menor de registro para análise.</li>\n<li><span style=\"color: #236fa1;\"><strong>Facilidade na reutilização de roteiros de produção</strong></span><br><span style=\"color: #236fa1;\"><strong>de produto similares.</strong></span><br>Geralmente, produtos do mesmo grupo ou família<br>possuem característica que possibilitam o<br>reaproveitamento de um único roteiro de produção para vários produtos diferentes.</li>\n</ol>\n<h3><span style=\"color: #236fa1;\">Armazenamento Dinâmico</span></h3>\n<p>No stock dinâmico alocamos os produtos por popularidade, deixando mais perto da zona de embalamento os produtos que mais saem para expedição.</p>",
-            "author": {
-                "name": "FISTAG"
-            },
-            "tags": [
-                   "Serviços"
-            ],
-            "date_published": "2024-03-19T19:52:20+00:00",
-            "date_modified": "2024-03-27T18:38:59+00:00"
         }
     ]
 }
