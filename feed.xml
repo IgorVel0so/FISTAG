@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-28T01:15:25+00:00</updated>
+    <updated>2024-03-28T15:54:50+00:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -161,7 +161,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade dos respetivos dados logísticos (características físicas e específicas de um produto). Além dos módulos que consideramos base num sistema de gestão (inventário, pedidos, etc), incluímos mais um módulo que nos permite monitorizar<br>temperaturas e estar conectados aos agentes robóticos.</p>
+                <p>A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade dos respetivos dados logísticos (características físicas e específicas de um produto). Além dos módulos que consideramos base num sistema de gestão (inventário, pedidos, etc), incluímos mais um módulo que nos permite monitorizar temperaturas e estar conectados aos agentes robóticos.</p>
 <p>Na hora do picking usamos o método por Onda. A razão principal está na grande dimensão das encomendas, e da já existente necessidade de usar WMS (Sistema de Gestãode Armazém).</p>
 <p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências dos produtos necessários para responder aos pedidos de<br>encomenda. O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de<br>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de<br>espera.</p>
             ]]>
