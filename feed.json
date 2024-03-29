@@ -14,6 +14,8 @@
             "id": "https://igorvel0so.github.io/FISTAG/desafios.html",
             "url": "https://igorvel0so.github.io/FISTAG/desafios.html",
             "title": "Desafios",
+            "summary": "Todo o que se implementa num armazém tem prós e contras. Não dá para comer o bolo tê-lo intacto ao&hellip;",
+            "content_html": "<p>Todo o que se implementa num armazém tem prós e contras. Não dá para comer o bolo tê-lo intacto ao mesmo tempo. Antes de qualquer novo investimento é necessário um planeamento bem estruturado, que aborde todas as necessidades e contrapontos, e muita, mas muita infomação. A maior parte dos investimentos relacionados com as novas tecnologias, especialmente implementações de IoT, caem por terra. Os armazéns abandonam o conceito de Smart Warehouse e voltam para os sistemas mais familiares, ou na pior das situações, estragam o negócio na totalidade. É preciso ter a certeza que há ganhos nos tempos e nos lucros a médio-longo prazo.</p>\n<p>Um WMS é quase obrigatório nos dias de hoje, mais notável na área do e-comerce e no comércio de novas tecnologias. A flexibilidade do programa permite adicionar novos módulos com novas funcionalidades, inclusive a infraestrutura de IoT. O que custa mais é o investimento inicial, que pode ser intimidante e arriscado. </p>\n<p>No caso da FISTAG existe redundância física que nos permite operar quando o pior acontece - cortes de internet ou de luz, mudanças de operadores, renegociações, mudanças urgentes de equipamento - e o WMS tem sempre uma redundância física. São as vantagens em relação aos sistema de Nuvem (Cloud) que se baseia em subscrições, e está dependente da funcionalidade e segurança da empresa gestora dessa Nuvem. </p>\n<p><strong>As desvantagens:</strong> armazenamento local de dados necessita de alguma redundância, com discos rígidos extra para o caso de um falhar. Necessitamos de <em>Cold Storage (Armazenamento Frio), </em>discos que servem apenas para armazenar dados raramente acessados pela empresa, como dados de alto valor e cópias de segurança. Se, por \"milagre\", tudo falha e desaparece, temos um arquivo com tudo guardado em ferramentas preparadas para aguentar o tempo parado e sem danos. No caso de falhar a luz, hoje é normal o investimento em geradores de eletricidade para manter o armazém operacional. O investimento adicional que isto traz é segurança física que requer uma boa qualificação dos fornecedores de segurança, que inclui sistemas de vigilância e técnicos informáticos bem treinados na área de redes.</p>\n<p>Confiança com os fornecedores de WMS é imperativa, no entanto, o programa já está à prova de \"tolos\". Se houver falha de comunicação entre o produto e IoT, o sistema avisa. Se o colaborador tentar picar mais produtos que aqueles registados em armazém, o WMS não deixa. </p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -21,14 +23,14 @@
                    "Blog"
             ],
             "date_published": "2024-03-28T01:15:25+00:00",
-            "date_modified": "2024-03-28T01:15:25+00:00"
+            "date_modified": "2024-03-29T17:55:22+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/internet-das-coisas.html",
             "url": "https://igorvel0so.github.io/FISTAG/internet-das-coisas.html",
             "title": "Armazém Inteligente",
-            "summary": "O nosso conceito de Armazém Inteligente incorpora-se numa tentativa de implementar as novas tecnologias para diminuir o erro humano, optimizar&hellip;",
-            "content_html": "<p>O nosso conceito de Armazém Inteligente incorpora-se numa tentativa de implementar as novas tecnologias para diminuir o erro humano, optimizar a leitura de dados e aumentar a velocidade das operações. Um sistema bem conectado permite-nos monitorizar com mais detalhe todas as operações do armazém à distância, fazendo mais aproveitamento do espaço destinado à alocação e movimentação dos produtos.</p>\n<p>Ao longo dos anos, os sensores tiveram os seus preços reduzidos devido à adoção ubíqua pelas grandes e médias empresas de vários sectores. As baterias aumentaram o tempo de duração, e é possível distribuir mais sensores pelo armazém por menor custo.</p>\n<p>Apesar de um investimento inicial substancial, a médio e longo prazo acreditamos que irá beneficiar a produtividade ao mesmo tempo que aumentam os níveis de segurança e bem-estar.</p>\n<p>Introduzimos sensores nas nossas entradas, máquinas, robôs e racks.</p>",
+            "summary": "O nosso conceito de Armazém Inteligente (Smart Warehouse) tem o objectivo de implementar as novas tecnologias para diminuir o erro&hellip;",
+            "content_html": "<p>O nosso conceito de Armazém Inteligente (Smart Warehouse) tem o objectivo de implementar as novas tecnologias para diminuir o erro humano, optimizar a leitura de dados e aumentar a velocidade das operações. Um sistema bem conectado permite-nos monitorizar com mais detalhe todas as operações do armazém à distância, fazendo mais aproveitamento do espaço destinado à alocação e movimentação dos produtos.</p>\n<p>Ao longo dos anos, os sensores tiveram os seus preços reduzidos devido à adoção ubíqua pelas grandes e médias empresas de vários sectores. As baterias aumentaram o tempo de duração, e é possível distribuir mais sensores pelo armazém por menor custo.</p>\n<p>Apesar de um investimento inicial substancial, a médio e longo prazo acreditamos que irá beneficiar a produtividade ao mesmo tempo que aumentam os níveis de segurança e bem-estar. E é amigo do ambiente por diminuir a necessidade de tanta papelada.</p>\n<p>Introduzimos sensores nas nossas entradas, máquinas, robôs e racks. </p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -36,7 +38,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-25T16:00:49+00:00",
-            "date_modified": "2024-03-27T22:47:04+00:00"
+            "date_modified": "2024-03-29T17:35:06+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/layout.html",
@@ -70,6 +72,8 @@
             "id": "https://igorvel0so.github.io/FISTAG/equipamento-e-maquinas.html",
             "url": "https://igorvel0so.github.io/FISTAG/equipamento-e-maquinas.html",
             "title": "Equipamento e Máquinas",
+            "summary": "Transportadores (Esteiras) Transportador de Rolos Epansível Transportador de rolos na zona de embalamento Usamos o transportador de rolos expansível principalmente&hellip;",
+            "content_html": "<h4><span style=\"color: #236fa1;\">Transportadores (Esteiras)</span></h4>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/BestFlex-19-conveyor.jpg\" data-size=\"1500x1500\"><img loading=\"lazy\" src=\"https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/BestFlex-19-conveyor-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a>\n<figcaption>Transportador de Rolos Epansível</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/warehouse-conveyor-systems-scaled-37706796.jpg\" data-size=\"1500x667\"><img loading=\"lazy\" src=\"https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/warehouse-conveyor-systems-scaled-37706796-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"320\"></a>\n<figcaption>Transportador de rolos na zona de embalamento</figcaption>\n</figure>\n</div></div>\n<p>Usamos o <strong>transportador de rolos expansível</strong> principalmente na zona de receção. Adaptando um aparelho de RFDI vai nos permitir realizar várias tarefas logo que os produtos entram no nosso armazém, inclusive a separação. É simples e parece quase rudimentar, mas traz flexibilidade. O <strong>transportador na zona de embalamento</strong> está adaptado com um sistema automático que recebe o picking do robô, e leva os produtos até ao colaborador responsável pelo embalamento dos pedidos.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -77,7 +81,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-23T16:17:41+00:00",
-            "date_modified": "2024-03-23T16:17:41+00:00"
+            "date_modified": "2024-03-29T18:35:03+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/seguranca.html",
@@ -114,7 +118,7 @@
             "url": "https://igorvel0so.github.io/FISTAG/warehouse-management-system-wms.html",
             "title": "Warehouse Management System (WMS)",
             "summary": "A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade&hellip;",
-            "content_html": "<p>A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade dos respetivos dados logísticos (características físicas e específicas de um produto). Além dos módulos que consideramos base num sistema de gestão (inventário, pedidos, etc), incluímos mais um módulo que nos permite monitorizar temperaturas e estar conectados aos agentes robóticos.</p>\n<p>Na hora do picking usamos o método por Onda. A razão principal está na grande dimensão das encomendas, e da já existente necessidade de usar WMS (Sistema de Gestãode Armazém).</p>\n<p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências dos produtos necessários para responder aos pedidos de<br>encomenda. O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de<br>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de<br>espera.</p>",
+            "content_html": "<p>A adoção de um Sistema de Gestão de Armazém justifica-se pela dimensão do inventário e das encomendas, e pela complexidade dos respetivos dados logísticos (características físicas e específicas de um produto) nesta era de e-commerce. Além dos módulos que consideramos base num sistema de gestão (inventário, pedidos, etc), incluímos mais um módulo que nos permite monitorizar temperaturas e estar conectados aos agentes robóticos.</p>\n<p>O WMS está integrado na infraestrutura IoT para melhorar todos os processos dentro do armazém, e oferecer qualidade de vida às funções dos nossos operadores/colaboradores. O WMS surgiu primeiro e a IoT é um <em>upgrade. </em>Logo são sistemas separados mas que comunicam 24/7 entre si. Esta abordagem de Smart Warehouse é também a que achamos mais segura, porque oferece redundância.</p>\n<p>A IoT está, por princípio, ligada à internet, mas se esta falha, a RFDI continua em funções de forma autónoma até estabelecer novamente conexão à internet ou as baterias acabarem. Os dados estão seguros nos servidores e o picking pode continuar sem interrupções.</p>\n<h4><span style=\"color: #236fa1;\">Picking</span> </h4>\n<p>Usamos o método de Onda. A razão principal está na grande dimensão das encomendas, e da já existente necessidade de usar WMS (Sistema de Gestão de Armazém).</p>\n<p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências dos produtos necessários para responder aos pedidos de<br>encomenda. O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de<br>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de<br>espera.</p>",
             "author": {
                 "name": "FISTAG"
             },
@@ -122,7 +126,7 @@
                    "Serviços"
             ],
             "date_published": "2024-03-23T16:11:32+00:00",
-            "date_modified": "2024-03-28T15:54:50+00:00"
+            "date_modified": "2024-03-29T17:07:07+00:00"
         },
         {
             "id": "https://igorvel0so.github.io/FISTAG/logistica.html",
