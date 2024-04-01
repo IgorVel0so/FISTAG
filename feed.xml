@@ -3,12 +3,24 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-04-01T02:00:16+01:00</updated>
+    <updated>2024-04-01T23:06:46+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
     <id>https://igorvel0so.github.io/FISTAG</id>
 
+    <entry>
+        <title>Valor Acrescentado</title>
+        <author>
+            <name>FISTAG</name>
+        </author>
+        <link href="https://igorvel0so.github.io/FISTAG/valor-acrescentado.html"/>
+        <id>https://igorvel0so.github.io/FISTAG/valor-acrescentado.html</id>
+
+        <updated>2024-04-01T17:14:05+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Desafios e o Futuro</title>
         <author>
@@ -144,7 +156,7 @@
 <figcaption>Empilhador Retrátil Eléctrico</figcaption>
 </figure>
 </div></div>
-<p>O <strong>Empilhador de Contrapeso Eléctrico</strong> permite-nos estar confortáveis com vários pesos de carga, até um máximo de 5t. Resolve a nossa necessidade de ter um movimentador de carga versátil e que cubra toda a distância do armazém. Além disso, facilita a retirada de carga pela lateral de uma galera caso seja necessário usar o nosso portão. O <strong>Empilhador Retrátil</strong> trabalha nos corredores - agora mais estreitos - e oferece eficiência nas operações Dock-to-Stock (da Doca para o Armazenamento) e Stock-to-Dock (do Armazenamento para a Doca). Ambos os empilhadores permitem expansão, isto é, integrá-los na infraestrutura IoT. Neste momento, o Empilhador Retrátil consegue fazer uso da RFDI para receber e responder a pedidos enquanto trabalha - principalmente - no armazenamento estático, e entre estático e dinâmico.</p>
+<p>O <strong>Empilhador de Contrapeso Eléctrico</strong> permite-nos estar confortáveis com vários pesos de carga, até um máximo de 5t. Resolve a nossa necessidade de ter um movimentador de carga versátil e que cubra toda a distância do armazém. Além disso, facilita a retirada de carga pela lateral de uma galera caso seja necessário usar o nosso portão. O <strong>Empilhador Retrátil</strong> trabalha nos corredores - agora mais estreitos - e oferece eficiência nas operações Dock-to-Stock (da Doca para o Armazenamento) e Stock-to-Dock (do Armazenamento para a Doca). Ambos os empilhadores são escaláveis, isto é, permitem integrá-los na infraestrutura IoT. Neste momento, o Empilhador Retrátil consegue fazer uso da RFDI para receber e responder a pedidos enquanto trabalha - principalmente - no armazenamento estático, e entre estático e dinâmico.</p>
 <p> </p>
             ]]>
         </content>
@@ -205,9 +217,14 @@
 <figcaption>Palete EUR</figcaption>
 </figure>
 </div></div>
-<h4> </h4>
 <p>A <strong>embalagem em cartão</strong> para embalamento foi escolhida pela sua flexibilidade e resistência. É reciclável, tornando-se mais sustentável e económica de usar.</p>
 <p>As <strong>paletes EUR</strong> são as mais universais e adequadas para os tipos de armazenamento e material adotados por nós.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/10/gallery/Rack-Convencional.jpg" data-size="1000x569"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/10/gallery/Rack-Convencional-thumbnail.jpg" alt="" width="720" height="410"></a>
+<figcaption>Estante Convencional</figcaption>
+</figure>
+</div></div>
+<p>A <strong>estante de paletização convencional</strong>, preferncialmente chamada em inglês <a href="https://www.mecalux.pt/solucoes-de-armazenagem/estantes">"rack"</a>, é o tipo de estatante usado no Armazenamento Estático com um máximo de 4 metros de altura. No Armazenamento Dinâmico usamos...   </p>
             ]]>
         </content>
     </entry>
@@ -249,26 +266,5 @@
         <updated>2024-03-20T17:37:10+00:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Carreira</title>
-        <author>
-            <name>FISTAG</name>
-        </author>
-        <link href="https://igorvel0so.github.io/FISTAG/carreira.html"/>
-        <id>https://igorvel0so.github.io/FISTAG/carreira.html</id>
-
-        <updated>2024-03-20T16:14:42+00:00</updated>
-            <summary>
-                <![CDATA[
-                    A nossa presença local confere um caráter regional e nacional. Muitas oportunidades para te juntares a nós estão à tua&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A nossa presença local confere um caráter regional e nacional. Muitas oportunidades para te juntares a nós estão à tua espera!</p>
-<p> </p>
-            ]]>
-        </content>
     </entry>
 </feed>
