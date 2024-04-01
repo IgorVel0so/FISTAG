@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-03-31T22:28:54+01:00</updated>
+    <updated>2024-04-01T02:00:16+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -126,7 +126,7 @@
 </figure>
 </div></div>
 <p>Usamos o <strong>transportador flexível de rodas de skate por gravidade</strong> principalmente na zona de receção. Adaptando um aparelho de RFDI vai nos permitir realizar várias tarefas logo que os produtos entram no nosso armazém, inclusive a separação. É simples e parece quase rudimentar, mas traz flexibilidade. O <strong>transportador de rolos na zona de embalamento</strong> está adaptado com um sistema automático que recebe o picking do robô, e leva os produtos até ao colaborador responsável pelo embalamento dos pedidos.</p>
-<p>O transportador flexível na zona de receção vai ser usado manualmente. Requer que o operador do porta paletes ou do empilhador trabalhem com outros colaboradores para tratar das encomendas logo na hora. É preciso saber onde e quando usá-lo. As rodas de skate não deixam que a encomenda abandone o transportador, e mantêm o seu ímpeto de movimento. No entanto, integra perfeitamente no sistema de redundância da IoT: se o pior acontecer e afetar os AGV, o transportador pode complementar a zona de separação até que o problema seja resolvido, ou seja implementada uma nova alternativa fixa. O uso de gravidade pode parecer fora de contexto num ambiente de alta tecnologia, mas consideramos prático e sustentável consoante as nossas necessidades. </p>
+<p>O transportador flexível na zona de receção vai ser usado manualmente. Requer que o operador do porta paletes ou do empilhador trabalhem com outros colaboradores para tratar das encomendas logo na hora. É preciso saber onde e quando usá-lo. As rodas de skate não deixam que a encomenda abandone o transportador, e mantêm o ímpeto do movimento. No entanto, integra perfeitamente no sistema de redundância da IoT: se o pior acontecer e afetar os AGV, o transportador pode complementar a zona de separação até que o problema seja resolvido, ou seja implementada uma nova alternativa fixa. O uso de gravidade pode parecer fora de contexto num ambiente de alta tecnologia, mas consideramos prático e sustentável consoante as nossas necessidades. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/Porta-Paletes.jpg" data-size="1000x667"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/Porta-Paletes-thumbnail.jpg" alt="" width="720" height="480"></a>
 <figcaption>Porta Paletes</figcaption>
@@ -135,7 +135,7 @@
 <figcaption>Stacker Pedestre</figcaption>
 </figure>
 </div></div>
-<p>O <strong>Porta Paletes</strong> mantem-se como ferramenta no nosso armazém, e incluímos um <strong>Stacker Pedestre</strong> com plataforma modular para abordar maiores pesos sem roubar tempo ao empilhador eléctrico, que estará noutras funções. O stacker permite que o operador use a pé ou em pé na plataforma, embora esta vá diminuir ligeiramente o espaço operacional nos corredores. Serve para percorrer maiores distâncias no armazém e ao mesmo tempo distribuir o material com mais eficiência. Está em fase de teste, medindo e comparando tempos de produtividade.  </p>
+<p>O <strong>Porta Paletes</strong> mantem-se como ferramenta no nosso armazém, e incluímos um <strong>Stacker Pedestre</strong> com plataforma modular para carga pesada sem roubar tempo ao empilhador eléctrico, que estará noutras funções. O stacker permite que o operador o use a pé ou em pé na plataforma, embora esta vá diminuir ligeiramente o espaço operacional nos corredores. Serve para percorrer maiores distâncias no armazém e ao mesmo tempo distribuir o material com mais eficiência. Está em fase de teste, medindo e comparando tempos de produtividade.  </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/Large-Electric-Rider-Forklift.png" data-size="593x536"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/Large-Electric-Rider-Forklift-thumbnail.png" alt="" width="593" height="536"></a>
 <figcaption>Empilhador de Contrapeso Eléctrico</figcaption>
@@ -144,7 +144,7 @@
 <figcaption>Empilhador Retrátil Eléctrico</figcaption>
 </figure>
 </div></div>
-<p>O <strong>Empilhador de Contrapeso Eléctico</strong> permite-nos trabalhar confortáveis com vários pesos de carga, com um máximo de 5t. Resolve a nossa necessidade de ter um movimentador de carga versátil e que cubra toda a distância do armazém. Além disso, permite-nos retirar carga de camião pela lateral caso seja necessário usar o nosso portão. O <strong>Empilhador Retrátil</strong> trabalha nos corredores - agora mais estreitos - e oferece eficiência nas operações Dock-to-Stock (da Doca para o Armazenamento) e Stock-to-Dock (do Armazenamento para a Doca). Ambos os empilhadores permitem expansão, isto é, integrá-los na infraestrutura IoT. Neste momento, o Empilhador Retrátil consegue fazer uso da RFDI para receber e responder a pedidos enquanto trabalha - principalmente - na doca e no armazenamento estático, e entre estático e dinâmico.</p>
+<p>O <strong>Empilhador de Contrapeso Eléctrico</strong> permite-nos estar confortáveis com vários pesos de carga, até um máximo de 5t. Resolve a nossa necessidade de ter um movimentador de carga versátil e que cubra toda a distância do armazém. Além disso, facilita a retirada de carga pela lateral de uma galera caso seja necessário usar o nosso portão. O <strong>Empilhador Retrátil</strong> trabalha nos corredores - agora mais estreitos - e oferece eficiência nas operações Dock-to-Stock (da Doca para o Armazenamento) e Stock-to-Dock (do Armazenamento para a Doca). Ambos os empilhadores permitem expansão, isto é, integrá-los na infraestrutura IoT. Neste momento, o Empilhador Retrátil consegue fazer uso da RFDI para receber e responder a pedidos enquanto trabalha - principalmente - no armazenamento estático, e entre estático e dinâmico.</p>
 <p> </p>
             ]]>
         </content>
@@ -172,10 +172,11 @@
 <p>A vídeo vigilância é a solução para a monitorização remota de espaços, uma vez que permite ver e gravar imagens desses espaços em permanência. Usando a tecnologia IP, os utilizadores podem aceder e gerir o vídeo, o áudio e os seus dados através de uma única rede acessível em qualquer parte do mundo.</p>
 <h4><span style="color: #236fa1;"><strong>Sadir (Sistemas Automáticos Detenção Contra Intruso)</strong></span></h4>
 <p>Um sistema de deteção de intrusos, é composto por dispositivos periféricos colocados em locais estratégicos com o objetivo de detetar movimentos e alertar os  proprietários de que algo não previsto está para acontecer.</p>
-<h4><span style="color: #236fa1;">Proteção de Incêndios</span></h4>
+<h4><span style="color: #236fa1;">Proteção de Incêndios e Individual</span></h4>
 <p><strong>Extintor de Classe A</strong> - num armazém são necessários para combater fogos com origem na madeira, papel e plástico.</p>
 <p><strong>Extintor de Dióxido de Carbono</strong> - melhor em equipamentos elétricos, ligados ou não. Os de pó são alternativa. Equipamentos elétricos são os mais comuns no nosso armazém, logo necessitamos de um número mais adequado destes extintores.</p>
-<p>Por todo o armazém temos saídas de emergência, sprinklers, sinalização e treinos ou formações periódicas com todos os colaboradores da empresa para saberem como agir em caso de incêndio. Material automatizado como AGV's e transportadores têm associados os seus próprios códigos de conduta para que o seu movimento evite incêndios. A limpeza dos corredores é muito importante para um armazém eficiente e produtivo, mas também para um armazém seguro.</p>
+<p>Por todo o armazém temos saídas de emergência, sprinklers, sinalização e efetuamos treinos ou formações periódicas com todos os colaboradores da empresa para saberem como agir em caso de incêndio. Material automatizado como AGV's e transportadores têm associados os seus próprios códigos de conduta para que o seu movimento evite incêndios. A limpeza dos corredores é muito importante para um armazém eficiente e produtivo, mas também para um armazém seguro.</p>
+<p>Os colaboradores têm à sua disposição, gratuitamente, Equipamentos de Proteção Individual inclusive capacete, luvas, botas, protetores auriculares, e roupa de alta visibilidade.</p>
             ]]>
         </content>
     </entry>
