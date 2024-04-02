@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-04-01T23:06:46+01:00</updated>
+    <updated>2024-04-02T21:56:50+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -99,7 +99,7 @@
         </content>
     </entry>
     <entry>
-        <title>Automação</title>
+        <title>PETRA (PA-AMR)</title>
         <author>
             <name>FISTAG</name>
         </author>
@@ -108,8 +108,26 @@
             <category term="Serviços"/>
 
         <updated>2024-03-23T16:17:53+00:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    Apresentamos o nosso Assistente Pessoal - Robot Móvel Autónomo (Personal Assistant - Autonomous Mobile Robot) - PETRA (Personal Transporter Robotic&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Apresentamos o nosso <strong>Assistente Pessoal - Robot Móvel Autónomo</strong> (Personal Assistant - Autonomous Mobile Robot) - <span style="color: #236fa1;"><strong>PETRA</strong></span> (Personal Transporter Robotic Assistant). Inspirado pelo Ko3 Twister da Kivnon e M5 Quicktron.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/13/gallery/Screenshot-2024-04-02-at-20-28-15-K03-Twister-Small-AGV-Small-Industrial-Robot.png" data-size="984x611"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/13/gallery/Screenshot-2024-04-02-at-20-28-15-K03-Twister-Small-AGV-Small-Industrial-Robot-thumbnail.png" alt="" width="720" height="447"></a>
+<figcaption>K03 Twister</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/13/gallery/Screenshot-2024-04-02-at-20-28-52-M-Series.png" data-size="245x300"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/13/gallery/Screenshot-2024-04-02-at-20-28-52-M-Series-thumbnail.png" alt="" width="245" height="300"></a>
+<figcaption>M5 Quicktron</figcaption>
+</figure>
+</div></div>
+<p>Baptizado pelo nosso mais recente sócio, Luís Paiva, PETRA foi concebido para reduzir o esforço físico dos nossos colaboradores e aumentar a qualidade de vida no trabalho. Além disso projetamos oferecer serviços a menor custo e maior qualidade comparados com os competidores. Adequa-se ao tamanho do nosso armazém e enquadra-se na necessidade de trabalhar sobre pressão com precisão e com um alto volume de pedidos em espaços menores.</p>
+<p>Oferece boa capacidade de carga útil - até 50Kg - para garantir operações tranquilas e contínuas do início ao fim. Integra-se com outros sistemas de transporte e automação, carregadores e descarregadores e sistemas de gerenciamento de software para garantir que a carga, descarga e transporte sejam eficientes e confiáveis.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Equipamento e Máquinas</title>
@@ -138,7 +156,7 @@
 </figure>
 </div></div>
 <p>Usamos o <strong>transportador flexível de rodas de skate por gravidade</strong> principalmente na zona de receção. Adaptando um aparelho de RFDI vai nos permitir realizar várias tarefas logo que os produtos entram no nosso armazém, inclusive a separação. É simples e parece quase rudimentar, mas traz flexibilidade. O <strong>transportador de rolos na zona de embalamento</strong> está adaptado com um sistema automático que recebe o picking do robô, e leva os produtos até ao colaborador responsável pelo embalamento dos pedidos.</p>
-<p>O transportador flexível na zona de receção vai ser usado manualmente. Requer que o operador do porta paletes ou do empilhador trabalhem com outros colaboradores para tratar das encomendas logo na hora. É preciso saber onde e quando usá-lo. As rodas de skate não deixam que a encomenda abandone o transportador, e mantêm o ímpeto do movimento. No entanto, integra perfeitamente no sistema de redundância da IoT: se o pior acontecer e afetar os AGV, o transportador pode complementar a zona de separação até que o problema seja resolvido, ou seja implementada uma nova alternativa fixa. O uso de gravidade pode parecer fora de contexto num ambiente de alta tecnologia, mas consideramos prático e sustentável consoante as nossas necessidades. </p>
+<p>O transportador flexível na zona de receção vai ser usado manualmente. Requer que o operador do porta paletes ou do empilhador trabalhem com outros colaboradores para tratar das encomendas logo na hora. É preciso saber onde e quando usá-lo. As rodas de skate não deixam que a encomenda abandone o transportador, e mantêm o ímpeto do movimento. No entanto, integra perfeitamente no sistema de redundância da IoT: se o pior acontecer e afetar os AMRs, o transportador pode complementar a zona de separação até que o problema seja resolvido, ou seja implementada uma nova alternativa fixa. O uso de gravidade pode parecer fora de contexto num ambiente de alta tecnologia, mas consideramos prático e sustentável consoante as nossas necessidades. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/Porta-Paletes.jpg" data-size="1000x667"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/12/gallery/Porta-Paletes-thumbnail.jpg" alt="" width="720" height="480"></a>
 <figcaption>Porta Paletes</figcaption>
@@ -187,7 +205,7 @@
 <h4><span style="color: #236fa1;">Proteção de Incêndios e Individual</span></h4>
 <p><strong>Extintor de Classe A</strong> - num armazém são necessários para combater fogos com origem na madeira, papel e plástico.</p>
 <p><strong>Extintor de Dióxido de Carbono</strong> - melhor em equipamentos elétricos, ligados ou não. Os de pó são alternativa. Equipamentos elétricos são os mais comuns no nosso armazém, logo necessitamos de um número mais adequado destes extintores.</p>
-<p>Por todo o armazém temos saídas de emergência, sprinklers, sinalização e efetuamos treinos ou formações periódicas com todos os colaboradores da empresa para saberem como agir em caso de incêndio. Material automatizado como AGV's e transportadores têm associados os seus próprios códigos de conduta para que o seu movimento evite incêndios. A limpeza dos corredores é muito importante para um armazém eficiente e produtivo, mas também para um armazém seguro.</p>
+<p>Por todo o armazém temos saídas de emergência, sprinklers, sinalização e efetuamos treinos ou formações periódicas com todos os colaboradores da empresa para saberem como agir em caso de incêndio. Material automatizado como AMR's e transportadores têm associados os seus próprios códigos de conduta para que o seu movimento evite incêndios. A limpeza dos corredores é muito importante para um armazém eficiente e produtivo, mas também para um armazém seguro.</p>
 <p>Os colaboradores têm à sua disposição, gratuitamente, Equipamentos de Proteção Individual inclusive capacete, luvas, botas, protetores auriculares, e roupa de alta visibilidade.</p>
             ]]>
         </content>
@@ -224,7 +242,7 @@
 <figcaption>Estante Convencional</figcaption>
 </figure>
 </div></div>
-<p>A <strong>estante de paletização convencional</strong>, preferncialmente chamada em inglês <a href="https://www.mecalux.pt/solucoes-de-armazenagem/estantes">"rack"</a>, é o tipo de estatante usado no Armazenamento Estático com um máximo de 4 metros de altura. No Armazenamento Dinâmico usamos...   </p>
+<p>A <strong>estante de paletização convencional</strong>, preferencialmente chamada em inglês <a href="https://www.mecalux.pt/solucoes-de-armazenagem/estantes">"rack"</a>, é o tipo de estatante usada no Armazenamento Estático, no nosso caso com um máximo de 4 metros de altura. No Armazenamento Dinâmico usamos...   </p>
             ]]>
         </content>
     </entry>
