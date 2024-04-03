@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-04-03T23:04:17+01:00</updated>
+    <updated>2024-04-04T00:34:17+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -114,7 +114,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/FISTAG/media/posts/14/02-SEGUNDO-FISTAG-01.png" alt="" />
-                    Primeiro Layout Segundo Layout Escritórios Segundo Layout
+                    Primeiro Layout Segundo Layout Escritórios Segundo Layout Baixar Ficheiro Layout
                 ]]>
             </summary>
         <content type="html">
@@ -131,6 +131,7 @@
 <figcaption>Escritórios Segundo Layout</figcaption>
 </figure>
 </div></div>
+<p><span style="color: #e67e23;"><a href="https://igorvel0so.github.io/FISTAG/FISTAG Layout UFCD.pdf">Baixar Ficheiro Layout</a></span></p>
             ]]>
         </content>
     </entry>
@@ -279,7 +280,7 @@
 <figcaption>Estante Convencional</figcaption>
 </figure>
 </div></div>
-<p>A <strong>estante de paletização convencional</strong>, preferencialmente chamada em inglês <a href="https://www.mecalux.pt/solucoes-de-armazenagem/estantes">"rack"</a>, é o tipo de estatante usada no Armazenamento Estático, no nosso caso com um máximo de 4 metros de altura. No Armazenamento Dinâmico usamos...   </p>
+<p>A <strong>estante de paletização convencional</strong>, preferencialmente chamada em inglês <a href="https://www.mecalux.pt/solucoes-de-armazenagem/estantes">"rack"</a>, é o tipo de estatante usada no Armazenamento Estático, no nosso caso com um máximo de 4 metros de altura. No Armazenamento Dinâmico usamos um modelo mais baixo de estante também otimizado para o picking.  </p>
             ]]>
         </content>
     </entry>
