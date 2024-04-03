@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-04-03T01:29:56+01:00</updated>
+    <updated>2024-04-03T23:04:17+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -107,15 +107,30 @@
         </author>
         <link href="https://igorvel0so.github.io/FISTAG/layout.html"/>
         <id>https://igorvel0so.github.io/FISTAG/layout.html</id>
-        <media:content url="https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01-01.png" medium="image" />
+        <media:content url="https://igorvel0so.github.io/FISTAG/media/posts/14/02-SEGUNDO-FISTAG-01.png" medium="image" />
             <category term="Sobre Nós"/>
 
         <updated>2024-03-23T16:20:03+00:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://igorvel0so.github.io/FISTAG/media/posts/14/02-SEGUNDO-FISTAG-01.png" alt="" />
+                    Primeiro Layout Segundo Layout Escritórios Segundo Layout
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01-01.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/14/Layout-FISTAG-MODEL2-01-01-01-2.png" alt="" width="3508" height="2480" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-01-2-xs.png 300w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-01-2-sm.png 480w ,https://igorvel0so.github.io/FISTAG/media/posts/14/responsive/Layout-FISTAG-MODEL2-01-01-01-2-md.png 768w"></figure>
+                    <p><img src="https://igorvel0so.github.io/FISTAG/media/posts/14/02-SEGUNDO-FISTAG-01.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/14/gallery/PRIMEIRO-FISTAG-01-01.png" data-size="3508x2480"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/14/gallery/PRIMEIRO-FISTAG-01-01-thumbnail.png" alt="" width="720" height="509"></a>
+<figcaption>Primeiro Layout</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/14/gallery/02-SEGUNDO-FISTAG-01.png" data-size="3508x2480"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/14/gallery/02-SEGUNDO-FISTAG-01-thumbnail.png" alt="" width="720" height="509"></a>
+<figcaption>Segundo Layout</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/14/gallery/FISTAG-Offices_Prancheta-1.png" data-size="3508x2481"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/14/gallery/FISTAG-Offices_Prancheta-1-thumbnail.png" alt="" width="720" height="509"></a>
+<figcaption>Escritórios Segundo Layout</figcaption>
+</figure>
+</div></div>
             ]]>
         </content>
     </entry>
