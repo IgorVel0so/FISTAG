@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-04-02T21:56:50+01:00</updated>
+    <updated>2024-04-03T01:29:56+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -18,8 +18,26 @@
         <id>https://igorvel0so.github.io/FISTAG/valor-acrescentado.html</id>
 
         <updated>2024-04-01T17:14:05+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    APOIO AO CLIENTE Na FISTAG temos uma equipa especializada disponível para responder a todas as suas questões, e prontas para&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/17/call-center.jpg" alt="" width="1000" height="665" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/17/responsive/call-center-xs.jpg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/17/responsive/call-center-sm.jpg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/17/responsive/call-center-md.jpg 768w"></figure>
+<h4><span style="color: #236fa1;">APOIO AO CLIENTE</span></h4>
+<p>Na FISTAG temos uma equipa especializada disponível para responder a todas as suas questões, e prontas para o informar sobre os estados da sua mercadoria.</p>
+<p> </p>
+<h4 class="align-right"><figure class="post__image post__image--right align-right"><img loading="lazy"  src="https://igorvel0so.github.io/FISTAG/media/posts/17/picking-pistol-4.jpg" alt="" width="233" height="349" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/FISTAG/media/posts/17/responsive/picking-pistol-4-xs.jpg 300w ,https://igorvel0so.github.io/FISTAG/media/posts/17/responsive/picking-pistol-4-sm.jpg 480w ,https://igorvel0so.github.io/FISTAG/media/posts/17/responsive/picking-pistol-4-md.jpg 768w"></figure><span style="color: #236fa1;">GESTÃO DE PALETES</span></h4>
+<p class="align-right">A nossa experiência em logística e armazenagem é o que nos define para gerir e controlar o fluxo de paletes que envia para os seus clientes.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Desafios e o Futuro</title>
@@ -50,6 +68,9 @@
 <p>Isto não implica que não implementemos o drone. Para servir casos específicos, pode ser uma solução barata e segura, que pode ser empregada por um técnico existente que tenha experiência em drones além das suas tarefas diárias. Por exemplo, é útil para tirar scan de produtos em pontos altos do armazém, ou uma adição para patrulhas periódicas parte da vigilância do armazém. Uma forma de contornar o problema com as baterias, é adotar um drone mais robusto e com autonomia para acopolar a um carregador móvel. Adaptar um sensor RDFI a um drone tem imenso potencial!</p>
 <p>Existe um requisito obrigatório de todas as vezes que o drone fosse utilizado: os corredores vazios, sem obstáculos e sem colaboradores a trabalhar. Faz parte das regras de segurança. É por isto que os drones estão muito pensados para armazéns com horários noturnos que querem poupar custos, evitando o pagamento de salários e responsabilidades a colaboradores humanos (além que são horários com menos movimentação de pessoal e de pedidos, mas que tem dinheiro a querer circular).</p>
 <p>De momento, simplesmente não nos oferece vantagens.</p>
+<p><strong>Fórmula para Número de Docas Necessárias: </strong></p>
+<p>Nº de Camiões Pretendidos x Tempo de Descarga / 8 Horas de Trabalho OU</p>
+<p>Nº de Camiões Pretendidos x Tempo de Descarga x Factor de Risco / 8 Horas de Trabalho</p>
 <p> </p>
 <p> </p>
             ]]>
@@ -75,7 +96,7 @@
                 <p>O nosso conceito de Armazém Inteligente (Smart Warehouse) tem o objectivo de implementar as novas tecnologias para diminuir o erro humano, optimizar a leitura de dados e aumentar a velocidade das operações. Um sistema bem conectado permite-nos monitorizar com mais detalhe todas as operações do armazém à distância, fazendo mais aproveitamento do espaço destinado à alocação e movimentação dos produtos.</p>
 <p>Ao longo dos anos, os sensores tiveram os seus preços reduzidos devido à adoção ubíqua pelas grandes e médias empresas de vários sectores. As baterias aumentaram o tempo de duração, e é possível distribuir mais sensores pelo armazém por menor custo.</p>
 <p>Apesar de um investimento inicial substancial, a médio e longo prazo acreditamos que irá beneficiar a produtividade ao mesmo tempo que aumentam os níveis de segurança e bem-estar. E é amigo do ambiente por diminuir a necessidade de tanta papelada.</p>
-<p>Introduzimos sensores nas nossas entradas, máquinas, robôs e racks. </p>
+<p>Introduzimos sensores nas nossas entradas, máquinas, robôs (AMRs) e estantes. </p>
             ]]>
         </content>
     </entry>
@@ -110,12 +131,12 @@
         <updated>2024-03-23T16:17:53+00:00</updated>
             <summary>
                 <![CDATA[
-                    Apresentamos o nosso Assistente Pessoal - Robot Móvel Autónomo (Personal Assistant - Autonomous Mobile Robot) - PETRA (Personal Transporter Robotic&hellip;
+                    Planeamos o nosso Assistente Pessoal - Robot Móvel Autónomo (Personal Assistant - Autonomous Mobile Robot) - PETRA (Personal Transporter Robotic&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Apresentamos o nosso <strong>Assistente Pessoal - Robot Móvel Autónomo</strong> (Personal Assistant - Autonomous Mobile Robot) - <span style="color: #236fa1;"><strong>PETRA</strong></span> (Personal Transporter Robotic Assistant). Inspirado pelo Ko3 Twister da Kivnon e M5 Quicktron.</p>
+                <p>Planeamos o nosso <strong>Assistente Pessoal - Robot Móvel Autónomo</strong> (Personal Assistant - Autonomous Mobile Robot) - <span style="color: #236fa1;"><strong>PETRA</strong></span> <strong>(Personal Transporter Robotic Assistant)</strong>. Inspirado pelo Ko3 Twister da Kivnon e M5 Quicktron.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/FISTAG/media/posts/13/gallery/Screenshot-2024-04-02-at-20-28-15-K03-Twister-Small-AGV-Small-Industrial-Robot.png" data-size="984x611"><img loading="lazy" src="https://igorvel0so.github.io/FISTAG/media/posts/13/gallery/Screenshot-2024-04-02-at-20-28-15-K03-Twister-Small-AGV-Small-Industrial-Robot-thumbnail.png" alt="" width="720" height="447"></a>
 <figcaption>K03 Twister</figcaption>
@@ -125,7 +146,8 @@
 </figure>
 </div></div>
 <p>Baptizado pelo nosso mais recente sócio, Luís Paiva, PETRA foi concebido para reduzir o esforço físico dos nossos colaboradores e aumentar a qualidade de vida no trabalho. Além disso projetamos oferecer serviços a menor custo e maior qualidade comparados com os competidores. Adequa-se ao tamanho do nosso armazém e enquadra-se na necessidade de trabalhar sobre pressão com precisão e com um alto volume de pedidos em espaços menores.</p>
-<p>Oferece boa capacidade de carga útil - até 50Kg - para garantir operações tranquilas e contínuas do início ao fim. Integra-se com outros sistemas de transporte e automação, carregadores e descarregadores e sistemas de gerenciamento de software para garantir que a carga, descarga e transporte sejam eficientes e confiáveis.</p>
+<p>Oferece boa capacidade de carga útil - até 50Kg - para garantir operações tranquilas e contínuas do início ao fim. Integra-se com outros sistemas de transporte e automação, carregadores e descarregadores e sistemas de gestão de software para garantir que a carga, descarga e transporte sejam eficientes e confiáveis (2 m/s sem carga e carga de 4h).</p>
+<p>Para boa segurança e visibilidade, PETRA inclui sinalização LED e sensores.</p>
             ]]>
         </content>
     </entry>
@@ -268,7 +290,8 @@
 <p>A IoT está, por princípio, ligada à internet, mas se esta falha, a RFDI continua em funções de forma autónoma até estabelecer novamente conexão à internet ou as baterias acabarem. Os dados estão seguros nos servidores e o picking pode continuar sem interrupções.</p>
 <h4><span style="color: #236fa1;">Picking</span> </h4>
 <p>Usamos o método de Onda. A razão principal está na grande dimensão das encomendas, e da já existente necessidade de usar WMS (Sistema de Gestão de Armazém).</p>
-<p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências dos produtos necessários para responder aos pedidos de<br>encomenda. O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de<br>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de<br>espera.</p>
+<p>Equipamentos eletrónicos, mesmo quando similares, contém características diferentes que podem aumentar a probabilidade de erro humano. O colaborador recebe no seu dispositivo as referências para responder aos pedidos.</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">O colaborador ativa o robô que o vai acompanhar durante o processo, pois este vai servir de suporte para transporte dos produtos. Quando o colaborador decidir que está na altura certa, o robô é enviado para deixar os produtos na zona de </span>embalamento. O colaborador pode ainda, enquanto um robô está a transportar esta encomenda, chamar outro robô para continuar o picking, anulando tempo de espera.</p>
             ]]>
         </content>
     </entry>
