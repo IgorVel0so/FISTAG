@@ -3,7 +3,7 @@
     <title>FISTAG Distribuição</title>
     <link href="https://igorvel0so.github.io/FISTAG/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/FISTAG" />
-    <updated>2024-04-07T22:00:14+01:00</updated>
+    <updated>2024-04-09T16:34:41+01:00</updated>
     <author>
         <name>FISTAG</name>
     </author>
@@ -30,8 +30,11 @@
 <h4 class="align-left"><span style="color: #236fa1;">GESTÃO DE PALETES</span></h4>
 <p class="align-left">A nossa experiência em logística e armazenagem é o que nos define para gerir e controlar o fluxo de paletes que envia para os seus clientes.</p>
 <h4><span style="color: #236fa1;">CROSSDOCKING</span></h4>
-<p> </p>
-<p> </p>
+<p>As cadeias de abastecimento são exigentes e competitivas, com uma maior necessidade de fazer chegar as encomendas ao cliente final o mais rápido possível. Várias empresas adicionam ao seu modelo de negócio entregas <em>same-day, </em>visando a maior satisfação do cliente, aumentando a competitividade na indústria. Estamos preparados para receber e transferir imediatamente os seus produtos para entrega.  </p>
+<h4><span style="color: #236fa1;">SOLUÇÕES PARA RETORNOS</span></h4>
+<p>Quando a logística reversa for requisito, podemos apoiar as suas operações gerindo os bens assim que recebidos no armazém.</p>
+<h4><span style="color: #236fa1;">TRACK AND TRACE</span></h4>
+<p>Com o auxílio das novas tecnologias e velocidade do nosso sistema, monitorizamos o percurso das mercadorias em tempo real e respetivo a cada cliente.</p>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -58,6 +61,9 @@
                 <p>Tudo o que se implementa num armazém tem prós e contras. Não dá para comer o bolo e tê-lo intacto ao mesmo tempo. Antes de qualquer novo investimento é necessário um planeamento bem estruturado, que aborde todas as necessidades e contrapontos, e muita, mas muita infomação. A maior parte dos investimentos relacionados com as novas tecnologias, especialmente implementações de IoT, caem por terra. Os armazéns abandonam o conceito de Smart Warehouse e voltam para os sistemas mais familiares, ou na pior das situações, estragam o negócio na totalidade. É preciso ter a certeza que há ganhos nos tempos e nos lucros a médio-longo prazo.</p>
 <p>Tivemos o cuidado em implementar tecnologias que sejam possíveis em Portugal e na União Europeia, onde a legislação é famíliar e afeta diretamente o modelo de negócio e as operações do armazém. Temos em mente o contexto regional e nacional dos nossos serviços. </p>
 <p>Veículos de passageiros arrecadam não muito mais que um quarto da procura de petróleo; outros sectores como a aviação e transporte marítimo, que não têm alternativas competitivas ao petróleo, podem ter um aumento de eficiência devido à concentração de esforços e tecnologia à volta dessa produção, mas continuam menos aprazíveis a uma substituição imediata. Apesar das tentativas em elaborar políticas sustentáveis que incentivem, ou mesmo obriguem à electrificação das <strong>frotas</strong>, uma maneira de reduzir o consumo também está presente na criação de formas eficientes de queimar o combustível. Isto está no interesse das próprias petrolíferas que querem os seus poços a durar o mais tempo possível, e a produzir o mais barato possível. Logo temos de estar atentos ao mercado quando misturamos as fontes de energia das frotas.</p>
+<p>O mercado de Veículos Eléctricos continua delicado, nem tanto pela falta de fiabilidade dos veículos mas por pouca fiabilidade na manutenção. Quando funciona, funciona de forma excelente, mas quando não funciona arrecada imensos custos que obrigam a considerar a necessidade de comprar novo. </p>
+<p>A falta de uma infraestrutura de carregadores públicos incentiva as empresas a construir os seus próprios locais de carregamento para manter as frotas de VE em circulação. É claro que isto traz vantagens exclusivas para os distribuidores não competirem por energia com os demais, no entanto, obriga a empresas a adotar e manter uma nova infraestrutura. Caso contrário, o raio de distribuição disponível para uma frota eléctrica fica bastante mais curto que uma frota a combustível. </p>
+<p>Entenda-se que, como está, também é mais seguro porque carregadores públicos têm uma alta tendência a deixar de funcionar ou a serem sabotados. O conceito de smart city, na prática, está numa fase muito experimental que serve uma percentagem menor relativamente ao número de VE existentes. Portugal está com alguma dificuldade em adotar esta tecnologia e os clientes não estão particularmente satisfeitos, inclusive aqueles com um modo de vida mais confortável, embora tenham mais opções elétricas. Assim, continua a caber às empresas decidirem entre si quais os passos a dar para tornar as suas frotas mais sustentáveis. Afinal, centros populacionais por onde passam rotas logísticas sofrem mais de doenças causadas pela poluição. Se conectar cidades e centros logísticos com vias rápidas por fora da população é impossível - devido ao tempo e colossal investimento público - então adotar tecnologias sustentáveis torna-se uma responsabilidade.</p>
 <p>Um <strong>WMS</strong> é quase obrigatório nos dias de hoje, mais notável na área do e-comerce e no comércio de novas tecnologias. A flexibilidade do programa permite adicionar novos módulos com novas funcionalidades, inclusive a infraestrutura de<strong> IoT</strong>. O que custa mais é o investimento inicial, que pode ser intimidante e arriscado. </p>
 <p>No caso da FISTAG existe redundância física que nos permite operar quando o pior acontece - cortes de internet ou de luz, mudanças de operadores, renegociações, mudanças urgentes de equipamento - e o WMS tem sempre uma redundância física. São as vantagens em relação aos sistema de Nuvem (Cloud) que se baseia em subscrições adicionais, e está dependente da funcionalidade e segurança da empresa gestora dessa Nuvem. </p>
 <p><strong>As desvantagens:</strong> armazenamento local de dados necessita de redundância, com discos rígidos extra para o caso de um falhar. Necessitamos de <em>Cold Storage (Armazenamento Frio), </em>discos que servem apenas para armazenar dados raramente acessados pela empresa, como dados de alto valor e cópias de segurança. Se, por "milagre", tudo falha e desaparece, temos um arquivo com tudo guardado em ferramentas preparadas para aguentar o tempo parado e sem danos. No caso de falhar a luz, hoje é normal o investimento em geradores de eletricidade para manter o armazém operacional. O investimento adicional que isto traz é segurança física que requer uma boa qualificação dos fornecedores de segurança, e que inclui sistemas de vigilância e técnicos informáticos bem treinados na área de redes.</p>
@@ -115,7 +121,7 @@
         <updated>2024-03-23T16:20:03+00:00</updated>
             <summary>
                 <![CDATA[
-                    Primeiro Layout Segundo Layout Escritórios Segundo Layout Baixar Ficheiro Layout
+                    Primeiro Layout Segundo Layout Escritórios Segundo Layout Baixar Ficheiro Layout Apresentado e Avaliado a 05 de Abril de 2024 Atualizações&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -132,6 +138,8 @@
 </figure>
 </div></div>
 <p><span style="color: #e67e23;"><a href="https://igorvel0so.github.io/FISTAG/FISTAG Layout UFCD.pdf">Baixar Ficheiro Layout</a></span></p>
+<p><em>Apresentado e Avaliado a 05 de Abril de 2024</em></p>
+<p><em>Atualizações continuadas a partir de 08 de Abril 2024</em></p>
             ]]>
         </content>
     </entry>
